@@ -1,0 +1,5 @@
+<resources>
+
+    <!-- Navigation Drawer -->
+    <dimen name="navigationDrawerWidth">400dp</dimen>
+</resources>

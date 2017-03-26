@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    This file is part of Handbook for Melee.
+
+    Handbook for Melee is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Handbook for Melee is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Handbook for Melee.  If not, see <http://www.gnu.org/licenses/>
+-->
+<resources>
+    <declare-styleable name="GIFView">
+        <attr name="src" format="reference" />
+    </declare-styleable>
+    <attr name="cardViewBackground" format="color"/>
+    <attr name="dividerColor" format="color"/>
+    <attr name="customColorPrimary" format="color"/>
+    <attr name="customColorPrimaryDark" format="color"/>
+    <attr name="customWindowBG" format="color"/>
+    <attr name="customToolbarStyle" format="reference"/>
+    <attr name="arrowSelector" format="reference"/>
+    <attr name="settingsStyle" format="reference" />
+
+    <declare-styleable name="SwipeBackLayout">
+        <attr name="edge_size" format="dimension"/>
+        <attr name="edge_flag">
+            <enum name="left" value="0" />
+            <enum name="right" value="1" />
+            <enum name="bottom" value="2" />
+            <enum name="all" value="3" />
+        </attr>
+        <attr name="shadow_left" format="reference"/>
+        <attr name="shadow_right" format="reference"/>
+        <attr name="shadow_bottom" format="reference"/>
+    </declare-styleable>
+
+    <attr name="SwipeBackLayoutStyle" format="reference"/>
+</resources>

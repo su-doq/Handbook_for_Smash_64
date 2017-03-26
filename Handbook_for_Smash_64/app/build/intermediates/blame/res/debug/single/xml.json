@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\build\\intermediates\\res\\merged\\debug\\xml\\characters.xml",
+        "source": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\src\\main\\res\\xml\\characters.xml"
+    },
+    {
+        "merged": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fundamentals.xml",
+        "source": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\src\\main\\res\\xml\\fundamentals.xml"
+    },
+    {
+        "merged": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\build\\intermediates\\res\\merged\\debug\\xml\\stages.xml",
+        "source": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\src\\main\\res\\xml\\stages.xml"
+    },
+    {
+        "merged": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\build\\intermediates\\res\\merged\\debug\\xml\\standardtech.xml",
+        "source": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\src\\main\\res\\xml\\standardtech.xml"
+    },
+    {
+        "merged": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\build\\intermediates\\res\\merged\\debug\\xml\\uniquetech.xml",
+        "source": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\src\\main\\res\\xml\\uniquetech.xml"
+    },
+    {
+        "merged": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable.xml",
+        "source": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\build\\intermediates\\res\\merged\\debug\\xml\\terms.xml",
+        "source": "C:\\Users\\husst\\Google Drive\\Software Guild\\WEBDEV\\Handbook_for_Smash_64\\Handbook_for_Smash_64\\app\\src\\main\\res\\xml\\terms.xml"
+    }
+]
