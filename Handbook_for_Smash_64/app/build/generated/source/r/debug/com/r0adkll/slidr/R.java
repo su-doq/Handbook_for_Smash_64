@@ -8,7 +8,7 @@ package com.r0adkll.slidr;
 
 public final class R {
     public static final class id {
-        public static final int slidable_content = 0x7f10000a;
-        public static final int slidable_panel = 0x7f10000b;
+        public static final int slidable_content = 0x7f09009f;
+        public static final int slidable_panel = 0x7f0900a0;
     }
 }

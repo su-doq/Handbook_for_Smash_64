@@ -8,22 +8,22 @@ package com.github.zagum.expandicon;
 
 public final class R {
     public static final class attr {
-        public static final int eiv_animationDuration = 0x7f0100e6;
-        public static final int eiv_color = 0x7f0100e3;
-        public static final int eiv_colorLess = 0x7f0100e5;
-        public static final int eiv_colorMore = 0x7f0100e4;
-        public static final int eiv_padding = 0x7f0100e7;
-        public static final int eiv_roundedCorners = 0x7f0100e1;
-        public static final int eiv_switchColor = 0x7f0100e2;
+        public static final int eiv_animationDuration = 0x7f040089;
+        public static final int eiv_color = 0x7f04008a;
+        public static final int eiv_colorLess = 0x7f04008b;
+        public static final int eiv_colorMore = 0x7f04008c;
+        public static final int eiv_padding = 0x7f04008d;
+        public static final int eiv_roundedCorners = 0x7f04008e;
+        public static final int eiv_switchColor = 0x7f04008f;
     }
     public static final class styleable {
-        public static final int[] ExpandIconView = { 0x7f0100e1, 0x7f0100e2, 0x7f0100e3, 0x7f0100e4, 0x7f0100e5, 0x7f0100e6, 0x7f0100e7 };
-        public static final int ExpandIconView_eiv_animationDuration = 5;
-        public static final int ExpandIconView_eiv_color = 2;
-        public static final int ExpandIconView_eiv_colorLess = 4;
+        public static final int[] ExpandIconView = { 0x7f040089, 0x7f04008a, 0x7f04008b, 0x7f04008c, 0x7f04008d, 0x7f04008e, 0x7f04008f };
+        public static final int ExpandIconView_eiv_animationDuration = 0;
+        public static final int ExpandIconView_eiv_color = 1;
+        public static final int ExpandIconView_eiv_colorLess = 2;
         public static final int ExpandIconView_eiv_colorMore = 3;
-        public static final int ExpandIconView_eiv_padding = 6;
-        public static final int ExpandIconView_eiv_roundedCorners = 0;
-        public static final int ExpandIconView_eiv_switchColor = 1;
+        public static final int ExpandIconView_eiv_padding = 4;
+        public static final int ExpandIconView_eiv_roundedCorners = 5;
+        public static final int ExpandIconView_eiv_switchColor = 6;
     }
 }

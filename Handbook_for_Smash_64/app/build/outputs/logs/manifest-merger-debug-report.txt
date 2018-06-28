@@ -1,156 +1,237 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:1-54:12
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:design:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\9cfbfe3db3bb7c650db3b8f2bdfb7091\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\ec51894318db170b283c3f79f1b8bb2a\AndroidManifest.xml:17:1-27:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\711f9de8ea3c099178d04d41cd872298\AndroidManifest.xml:2:1-11:12
+MERGED from [com.turingtechnologies.materialscrollbar:lib:10.0.2] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\lib-10.0.2.aar\7b5f65e80cc16c14dfdfc10242d2f514\AndroidManifest.xml:2:1-11:12
+MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.0.3.aar\8aec8cf5afb43273c844fb2ea3cdc80e\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\97a9382894d458875c0cb4bf2618a353\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.2.0.aar\fcce1978fe6188c56992bb9f1c91c5c5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\slidableactivity-2.0.6.aar\074f970074012a278c5e716f44585e20\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.zagum:Android-ExpandIcon:1.1.1] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\Android-ExpandIcon-1.1.1.aar\72ae69b21e402bf237117881f94c9eb0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\106e2d277600d2e90e84511d8f6d8b25\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\7fcd11d53aca4f15d9772e842e9ab1a5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:transition:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\5a8ac1149c08bc87c2def41a87fe4dfe\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\d4f0d4feae3bfbe1e26a3610c378d1d9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\49f49d21ffa4019d93ddba74b04aa545\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\d29402183be521527d8846886f03380a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\cb96b4449ac07f415c171625f58975ed\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\5dd9b51763c3f632649144c2ab0c6e96\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\18c6947db7158f4472ca7194bac164a6\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:3:11-52
-		INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:3:11-52
+		INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:1-54:12
+		INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:4:11-51
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:4:11-51
 uses-feature#android.hardware.location
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:6:5-87
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:6:5-87
 	android:required
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:6:60-84
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:6:60-84
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:6:19-59
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:6:19-59
 uses-feature#android.hardware.location.network
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:7:5-95
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:7:5-95
 	android:required
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:7:68-92
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:7:68-92
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:7:19-67
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:7:19-67
 application
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:9:5-52:19
-MERGED from [com.android.support:design:25.2.0] C:\Users\husst\.android\build-cache\54b562b236eb5819470b2ef40dc427ce5a6b4a56\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\husst\.android\build-cache\3e8573d09cfbcaa2698a87ffacd9cd3a29069e0f\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\husst\.android\build-cache\bc216fc0f721770098acefd8d468e3b1e37e761b\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\husst\.android\build-cache\3f27993f037bdf78e55eae5c60f614ad5bfe4d5b\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.2.0] C:\Users\husst\.android\build-cache\846ba6300a5f4a0a9858cad2e39b2bc8a2935671\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\husst\.android\build-cache\06b8c1245cc4cde64b85b56d602d780b2a0ae327\output\AndroidManifest.xml:22:5-20
-MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\husst\.android\build-cache\dd48ed44fbdc5191c636ec0ae3ae721a20fcdefc\output\AndroidManifest.xml:11:5-14:19
-MERGED from [com.r0adkll:slidableactivity:2.0.5] C:\Users\husst\.android\build-cache\67538ffea98e9077ee00532b173860057ebb1992\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\husst\.android\build-cache\9a06ad5a8d9db8b05b57aa4a8f0134bb7b507e3e\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\husst\.android\build-cache\98b6335a92b8ca218c126468384342d48d310c2b\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\husst\.android\build-cache\3142edd4f330c4253083d8fab09d15e88da59a1c\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\husst\.android\build-cache\f09967f7f49c11945404dd75729fbea2856d24f3\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\husst\.android\build-cache\2bb8b91e3943bf949af1362049f082389912be59\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\husst\.android\build-cache\9082b4b778207a509eb2ca20437f8d8d821fd3c1\output\AndroidManifest.xml:25:5-20
-MERGED from [com.github.zagum:Android-ExpandIcon:1.1.1] C:\Users\husst\.android\build-cache\68d7b9d58c5be34771905fca87d919696ce1797d\output\AndroidManifest.xml:8:5-20
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:9:5-52:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\9cfbfe3db3bb7c650db3b8f2bdfb7091\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\9cfbfe3db3bb7c650db3b8f2bdfb7091\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\ec51894318db170b283c3f79f1b8bb2a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\ec51894318db170b283c3f79f1b8bb2a\AndroidManifest.xml:25:5-20
+MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.0.3.aar\8aec8cf5afb43273c844fb2ea3cdc80e\AndroidManifest.xml:11:5-14:19
+MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.0.3.aar\8aec8cf5afb43273c844fb2ea3cdc80e\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.2.0.aar\fcce1978fe6188c56992bb9f1c91c5c5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.2.0.aar\fcce1978fe6188c56992bb9f1c91c5c5\AndroidManifest.xml:22:5-20
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\slidableactivity-2.0.6.aar\074f970074012a278c5e716f44585e20\AndroidManifest.xml:9:5-20
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\slidableactivity-2.0.6.aar\074f970074012a278c5e716f44585e20\AndroidManifest.xml:9:5-20
+MERGED from [com.github.zagum:Android-ExpandIcon:1.1.1] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\Android-ExpandIcon-1.1.1.aar\72ae69b21e402bf237117881f94c9eb0\AndroidManifest.xml:8:5-20
+MERGED from [com.github.zagum:Android-ExpandIcon:1.1.1] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\Android-ExpandIcon-1.1.1.aar\72ae69b21e402bf237117881f94c9eb0\AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\106e2d277600d2e90e84511d8f6d8b25\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\106e2d277600d2e90e84511d8f6d8b25\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\7fcd11d53aca4f15d9772e842e9ab1a5\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\7fcd11d53aca4f15d9772e842e9ab1a5\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\5a8ac1149c08bc87c2def41a87fe4dfe\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\5a8ac1149c08bc87c2def41a87fe4dfe\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\d4f0d4feae3bfbe1e26a3610c378d1d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\d4f0d4feae3bfbe1e26a3610c378d1d9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\49f49d21ffa4019d93ddba74b04aa545\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\49f49d21ffa4019d93ddba74b04aa545\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\d29402183be521527d8846886f03380a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\d29402183be521527d8846886f03380a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\cb96b4449ac07f415c171625f58975ed\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\cb96b4449ac07f415c171625f58975ed\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\5dd9b51763c3f632649144c2ab0c6e96\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\5dd9b51763c3f632649144c2ab0c6e96\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\18c6947db7158f4472ca7194bac164a6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\18c6947db7158f4472ca7194bac164a6\AndroidManifest.xml:25:5-29:19
 	android:label
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:13:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:11:9-41
-	android:allowBackup
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:11:9-41
 	android:icon
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.thatkawaiiguy.meleehandbook.MainActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:16:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:17:13-20:29
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.thatkawaiiguy.meleehandbook.activity.CharacterActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:22:9-23:57
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:22:9-23:57
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:23:13-55
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:23:13-55
 activity#com.thatkawaiiguy.meleehandbook.activity.CharacterFrameActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:24:9-25:62
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:24:9-25:62
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:25:13-60
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:25:13-60
 activity#com.thatkawaiiguy.meleehandbook.activity.FunActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:26:9-27:51
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:26:9-27:51
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:27:13-49
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:27:13-49
 activity#com.thatkawaiiguy.meleehandbook.activity.StageActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:28:9-29:53
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:28:9-29:53
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:29:13-51
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:29:13-51
 activity#com.thatkawaiiguy.meleehandbook.activity.TechTabActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:30:9-31:55
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:30:9-31:55
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:31:13-53
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:31:13-53
 activity#com.thatkawaiiguy.meleehandbook.activity.VideoInfoActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:32:9-33:57
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:32:9-33:57
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:33:13-55
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:33:13-55
 activity#com.thatkawaiiguy.meleehandbook.activity.AppSettingsActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:34:9-35:59
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:34:9-35:59
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:35:13-57
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:35:13-57
 activity#com.thatkawaiiguy.meleehandbook.activity.HitBoxesActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:36:9-37:56
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:36:9-37:56
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:37:13-54
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:37:13-54
 activity#com.thatkawaiiguy.meleehandbook.activity.HealthyActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:38:9-39:55
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:38:9-39:55
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:39:13-53
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:39:13-53
 activity#com.thatkawaiiguy.meleehandbook.activity.SearchResultsActivity
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:40:9-50:20
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:40:9-50:20
 	android:launchMode
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:42:13-43
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:42:13-43
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:41:13-59
-intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:43:13-46:29
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:41:13-59
+intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:43:13-46:29
 action#android.intent.action.SEARCH
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:44:17-71
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:44:17-71
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:44:25-68
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:44:25-68
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:45:17-76
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:45:17-76
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:45:27-73
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:45:27-73
 meta-data#android.app.searchable
-ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:47:13-49:54
+ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:47:13-49:54
 	android:resource
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:49:17-51
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:49:17-51
 	android:name
-		ADDED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:48:17-54
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml:48:17-54
 uses-sdk
-INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\husst\.android\build-cache\0ff58d6a0f8969acdc6517047701a7da087eb977\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:25.2.0] C:\Users\husst\.android\build-cache\54b562b236eb5819470b2ef40dc427ce5a6b4a56\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\husst\.android\build-cache\3e8573d09cfbcaa2698a87ffacd9cd3a29069e0f\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\husst\.android\build-cache\bc216fc0f721770098acefd8d468e3b1e37e761b\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\husst\.android\build-cache\3f27993f037bdf78e55eae5c60f614ad5bfe4d5b\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:transition:25.2.0] C:\Users\husst\.android\build-cache\846ba6300a5f4a0a9858cad2e39b2bc8a2935671\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\husst\.android\build-cache\06b8c1245cc4cde64b85b56d602d780b2a0ae327\output\AndroidManifest.xml:20:5-43
-MERGED from [com.turingtechnologies.materialscrollbar:lib:10.0.2] C:\Users\husst\.android\build-cache\d3dc6a5de4db9acd23ccc18e13010f41a3536add\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\husst\.android\build-cache\dd48ed44fbdc5191c636ec0ae3ae721a20fcdefc\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\husst\.android\build-cache\3b3e28c93e04c0172776d4e71990c94edda961a3\output\AndroidManifest.xml:20:5-43
-MERGED from [com.r0adkll:slidableactivity:2.0.5] C:\Users\husst\.android\build-cache\67538ffea98e9077ee00532b173860057ebb1992\output\AndroidManifest.xml:7:5-44
-MERGED from [com.android.support:support-v4:25.2.0] C:\Users\husst\.android\build-cache\9a06ad5a8d9db8b05b57aa4a8f0134bb7b507e3e\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\husst\.android\build-cache\98b6335a92b8ca218c126468384342d48d310c2b\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\husst\.android\build-cache\3142edd4f330c4253083d8fab09d15e88da59a1c\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\husst\.android\build-cache\f09967f7f49c11945404dd75729fbea2856d24f3\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\husst\.android\build-cache\2bb8b91e3943bf949af1362049f082389912be59\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.2.0] C:\Users\husst\.android\build-cache\9082b4b778207a509eb2ca20437f8d8d821fd3c1\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.github.zagum:Android-ExpandIcon:1.1.1] C:\Users\husst\.android\build-cache\68d7b9d58c5be34771905fca87d919696ce1797d\output\AndroidManifest.xml:6:5-44
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\9cfbfe3db3bb7c650db3b8f2bdfb7091\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\9cfbfe3db3bb7c650db3b8f2bdfb7091\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\ec51894318db170b283c3f79f1b8bb2a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\ec51894318db170b283c3f79f1b8bb2a\AndroidManifest.xml:21:5-23:78
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\711f9de8ea3c099178d04d41cd872298\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\711f9de8ea3c099178d04d41cd872298\AndroidManifest.xml:7:5-9:41
+MERGED from [com.turingtechnologies.materialscrollbar:lib:10.0.2] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\lib-10.0.2.aar\7b5f65e80cc16c14dfdfc10242d2f514\AndroidManifest.xml:7:5-9:41
+MERGED from [com.turingtechnologies.materialscrollbar:lib:10.0.2] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\lib-10.0.2.aar\7b5f65e80cc16c14dfdfc10242d2f514\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.0.3.aar\8aec8cf5afb43273c844fb2ea3cdc80e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bignerdranch.android:expandablerecyclerview:1.0.3] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.0.3.aar\8aec8cf5afb43273c844fb2ea3cdc80e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\97a9382894d458875c0cb4bf2618a353\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\97a9382894d458875c0cb4bf2618a353\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.2.0.aar\fcce1978fe6188c56992bb9f1c91c5c5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.2.0.aar\fcce1978fe6188c56992bb9f1c91c5c5\AndroidManifest.xml:20:5-43
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\slidableactivity-2.0.6.aar\074f970074012a278c5e716f44585e20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.r0adkll:slidableactivity:2.0.6] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\slidableactivity-2.0.6.aar\074f970074012a278c5e716f44585e20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.zagum:Android-ExpandIcon:1.1.1] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\Android-ExpandIcon-1.1.1.aar\72ae69b21e402bf237117881f94c9eb0\AndroidManifest.xml:6:5-44
+MERGED from [com.github.zagum:Android-ExpandIcon:1.1.1] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\Android-ExpandIcon-1.1.1.aar\72ae69b21e402bf237117881f94c9eb0\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\106e2d277600d2e90e84511d8f6d8b25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\106e2d277600d2e90e84511d8f6d8b25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\7fcd11d53aca4f15d9772e842e9ab1a5\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\7fcd11d53aca4f15d9772e842e9ab1a5\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\5a8ac1149c08bc87c2def41a87fe4dfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\5a8ac1149c08bc87c2def41a87fe4dfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\d4f0d4feae3bfbe1e26a3610c378d1d9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\d4f0d4feae3bfbe1e26a3610c378d1d9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\49f49d21ffa4019d93ddba74b04aa545\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\49f49d21ffa4019d93ddba74b04aa545\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\d29402183be521527d8846886f03380a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\d29402183be521527d8846886f03380a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\cb96b4449ac07f415c171625f58975ed\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\cb96b4449ac07f415c171625f58975ed\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\5dd9b51763c3f632649144c2ab0c6e96\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\5dd9b51763c3f632649144c2ab0c6e96\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\18c6947db7158f4472ca7194bac164a6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\18c6947db7158f4472ca7194bac164a6\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.2.0] C:\Users\husst\.android\build-cache\54b562b236eb5819470b2ef40dc427ce5a6b4a56\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.2.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\9cfbfe3db3bb7c650db3b8f2bdfb7091\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\husst\Google Drive\Software Guild\WEBDEV\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\husst\Documents\handbook\Handbook_for_Smash_64\Handbook_for_Smash_64\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\d4f0d4feae3bfbe1e26a3610c378d1d9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\49f49d21ffa4019d93ddba74b04aa545\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\49f49d21ffa4019d93ddba74b04aa545\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\d29402183be521527d8846886f03380a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\d29402183be521527d8846886f03380a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\cb96b4449ac07f415c171625f58975ed\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\cb96b4449ac07f415c171625f58975ed\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\5dd9b51763c3f632649144c2ab0c6e96\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\5dd9b51763c3f632649144c2ab0c6e96\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\18c6947db7158f4472ca7194bac164a6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\18c6947db7158f4472ca7194bac164a6\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\d4f0d4feae3bfbe1e26a3610c378d1d9\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:25.4.0] C:\Users\husst\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\d4f0d4feae3bfbe1e26a3610c378d1d9\AndroidManifest.xml:27:13-51

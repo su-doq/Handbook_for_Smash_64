@@ -45,7 +45,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 public class HitBoxesActivity extends AppCompatActivity {
-    private int frame = 0;
+    private int frame = 1;
     private int mTotal = 0;
 
     private ImageView nextBtn;
@@ -90,7 +90,6 @@ public class HitBoxesActivity extends AppCompatActivity {
             return;
         characterPickedTitle = mainData.getString("option");
         movePicked = mainData.getString("frame");
-
         setSupportActionBar((Toolbar) findViewById(R.id.toolbar));
         assert getSupportActionBar() != null;
         getSupportActionBar().setTitle(characterPickedTitle + "'s " + movePicked);
@@ -201,7 +200,7 @@ public class HitBoxesActivity extends AppCompatActivity {
                     for(int i = frame; i < mTotal; i++)
                         handler.postDelayed(runnable, 51 * (i - (frame - 1)));
                 } else {
-                    frame = 0;
+                    frame = 1;
                     for(int i = frame; i < mTotal; i++)
                         handler.postDelayed(runnable, 51 * (i - (frame - 1)));
                 }
@@ -238,7 +237,7 @@ public class HitBoxesActivity extends AppCompatActivity {
         public boolean onLongClick(View v) {
             if(!running) {
                 if(!paused) {
-                    frame = 0;
+                    frame = 1;
                     for(int i = frame; i < mTotal; i++)
                         handler.postDelayed(runnable, 17 * (i - (frame - 1)));
                 } else {
@@ -303,7 +302,7 @@ public class HitBoxesActivity extends AppCompatActivity {
                 @Override
                 public boolean onLongClick(View v) {
                     if(!running) {
-                        frame = 0;
+                        frame = 1;
                         setFrame();
                     } else {
                         interruptPlay();
